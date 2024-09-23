@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tom{
+  background-image: url('https://res.cloudinary.com/dfuse3jtq/image/upload/v1721664914/Photo_9_pccqgd.png');
+}
